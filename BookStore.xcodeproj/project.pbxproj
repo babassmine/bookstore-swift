@@ -19,6 +19,7 @@
 		CE983DC71BF2E366000C63FB /* Bookstore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983DC61BF2E366000C63FB /* Bookstore.swift */; settings = {ASSET_TAGS = (); }; };
 		CE983DC91BF2E422000C63FB /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983DC81BF2E422000C63FB /* Book.swift */; settings = {ASSET_TAGS = (); }; };
 		CE983DCB1BF2E4C0000C63FB /* Sale.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983DCA1BF2E4C0000C63FB /* Sale.swift */; settings = {ASSET_TAGS = (); }; };
+		CE983DCD1BF2E7BD000C63FB /* Author.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE983DCC1BF2E7BD000C63FB /* Author.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		CE983DC61BF2E366000C63FB /* Bookstore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bookstore.swift; sourceTree = "<group>"; };
 		CE983DC81BF2E422000C63FB /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		CE983DCA1BF2E4C0000C63FB /* Sale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sale.swift; sourceTree = "<group>"; };
+		CE983DCC1BF2E7BD000C63FB /* Author.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Author.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				CE983DC61BF2E366000C63FB /* Bookstore.swift */,
 				CE983DC81BF2E422000C63FB /* Book.swift */,
 				CE983DCA1BF2E4C0000C63FB /* Sale.swift */,
+				CE983DCC1BF2E7BD000C63FB /* Author.swift */,
 				CE983D931BF2E095000C63FB /* BookStore */,
 				CE983DAA1BF2E095000C63FB /* BookStoreTests */,
 				CE983DB51BF2E095000C63FB /* BookStoreUITests */,
@@ -272,6 +275,7 @@
 			files = (
 				CE983D991BF2E095000C63FB /* DetailViewController.swift in Sources */,
 				CE983D971BF2E095000C63FB /* MasterViewController.swift in Sources */,
+				CE983DCD1BF2E7BD000C63FB /* Author.swift in Sources */,
 				CE983DC91BF2E422000C63FB /* Book.swift in Sources */,
 				CE983D951BF2E095000C63FB /* AppDelegate.swift in Sources */,
 				CE983DCB1BF2E4C0000C63FB /* Sale.swift in Sources */,
