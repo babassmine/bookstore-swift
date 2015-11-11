@@ -8,9 +8,8 @@
 
 import Foundation
 
-class Book {
+class Book: PrintedMaterial {
     var author = ""
-    var publisher = ""
     var genre = ""
     var year_published = ""
     var number_of_pages = ""
